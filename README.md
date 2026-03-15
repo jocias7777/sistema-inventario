@@ -1,6 +1,6 @@
 # PerfilesSA WebApp
 
-Aplicaci髇 web ASP.NET Web Forms para la gesti髇 de empleados y departamentos.
+Aplicaci贸n web ASP.NET Web Forms para la gesti贸n de empleados y departamentos.
 
 ## Requisitos
 
@@ -10,35 +10,35 @@ Aplicaci髇 web ASP.NET Web Forms para la gesti髇 de empleados y departamentos.
 
 ## Estructura del Proyecto
 
-- **Empleados.aspx** - Gesti髇 de empleados
-- **Departamentos.aspx** - Gesti髇 de departamentos
-- **Reporte.aspx** - Generaci髇 de reportes
+- **Empleados.aspx** - Gesti贸n de empleados
+- **Departamentos.aspx** - Gesti贸n de departamentos
+- **Reporte.aspx** - Generaci贸n de reportes
 - **EmpleadosService.asmx** - Servicio web para operaciones de empleados
 - **Datos/** - Capa de acceso a datos (DAL)
 
-## C髆o ejecutar el proyecto
+## C贸mo ejecutar el proyecto
 
 1. Clonar el repositorio:
    ```bash
    git clone <URL_DEL_REPOSITORIO>
    ```
 
-2. Abrir la soluci髇 en Visual Studio:
+2. Abrir la soluci贸n en Visual Studio:
    - Abrir `PerfilesSA_WebApp.sln`
 
 3. Restaurar paquetes NuGet (si es necesario):
-   - Clic derecho en la soluci髇 > Restaurar paquetes NuGet
+   - Clic derecho en la soluci贸n > Restaurar paquetes NuGet
 
-4. Configurar la cadena de conexi髇:
-   - Revisar y actualizar la cadena de conexi髇 en `Web.config` seg鷑 tu entorno
+4. Configurar la cadena de conexi贸n:
+   - Revisar y actualizar la cadena de conexi贸n en `Web.config` seg煤n tu entorno
 
 5. Compilar el proyecto:
    - Presionar `Ctrl+Shift+B` o ir a Build > Build Solution
 
-6. Ejecutar la aplicaci髇:
-   - Presionar `F5` o clic en el bot髇 de inicio
+6. Ejecutar la aplicaci贸n:
+   - Presionar `F5` o clic en el bot贸n de inicio
 
-## Tecnolog韆s Utilizadas
+## Tecnolog铆as Utilizadas
 
 - ASP.NET Web Forms
 - .NET Framework 4.7.2
@@ -47,4 +47,4 @@ Aplicaci髇 web ASP.NET Web Forms para la gesti髇 de empleados y departamentos.
 
 ## Autor
 
-Desarrollado para PerfilesSA
+Desarrollador Jocias 
